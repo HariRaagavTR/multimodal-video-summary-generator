@@ -1,7 +1,7 @@
 # Multimodal-video-summary-generator
 Capstone Project - Batch 26
 
-## 👨‍💻 Contributors
+## 👨‍💻 Meet the Devs
 Member | SRN | Sec 
 --- | --- | ---
 [Aryan Kumar](https://github.com/Aryan0501) | PES2UG19CS067 | B<br>
