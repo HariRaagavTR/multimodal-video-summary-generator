@@ -3,7 +3,7 @@ Capstone Project - Batch 26
 
 ![alt text](https://github.com/HariRaagavTR/multimodal-video-summary-generator/blob/main/images/banner.png "Logo Banner")
 
-## 👨‍💻 Contributors
+## 👨‍💻 Meet the Devs
 Member | SRN | Sec 
 --- | --- | ---
 [Aryan Kumar](https://github.com/Aryan0501) | PES2UG19CS067 | B<br>
