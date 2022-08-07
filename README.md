@@ -1,7 +1,7 @@
 # Multimodal-video-summary-generator
 Capstone Project - Batch 26
 
-![alt text](https://github.com/HariRaagavTR/multimodal-video-summary-generator/blob/main/images/banner.png "Logo Banner")
+![alt text](https://github.com/HariRaagavTR/multimodal-video-summary-generator/blob/main/images/banner.png "Recapyt Logo Banner")
 
 ## 👨‍💻 Meet the Devs
 Member | SRN | Sec 
