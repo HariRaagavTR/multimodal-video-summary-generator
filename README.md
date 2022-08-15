@@ -4,7 +4,7 @@ Capstone Project - Batch 26
 ![alt text](https://github.com/HariRaagavTR/multimodal-video-summary-generator/blob/main/images/banner.png "Recapyt Logo Banner")
 
 ## 👨‍💻 Meet the Devs
-Member | SRN | Sec 
+Member | SRN | Section 
 --- | --- | ---
 [Aryan Kumar](https://github.com/Aryan0501) | PES2UG19CS067 | B<br>
 [Geethika K](https://github.com/Geeth5) | PES2UG19CS127 | B<br>
