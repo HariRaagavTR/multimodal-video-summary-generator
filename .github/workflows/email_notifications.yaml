@@ -17,10 +17,10 @@ jobs:
           username: ${{ secrets.EMAIL_USERNAME }}
           password: ${{ secrets.EMAIL_PASSWORD }}
           # email subject
-          subject: ${{ github.job }} job of ${{ github.repository }} has ${{ job.status }}
+          subject: Recapyt Update ! ${{ github.job }} job of ${{ github.repository }} has ${{ job.status }}
           # email body as text
           body: ${{ github.job }} job in worflow ${{ github.workflow }} of ${{ github.repository }} has ${{ job.status }}
           # comma-separated string, send email to
-          to: lakshminarayanpaidisetty@gmail.com
+          to: lakshminarayanpaidisetty@gmail.com, harirams01@gmail.com, kommineni.geethika@gmail.com, aryan.kumar.052001@gmail.com
           # from email name
           from: Project Recapyt
