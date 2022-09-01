@@ -1,3 +1,6 @@
+# If you are using pycharm go to settings -> project xyx->python interpr ADD opencv-python and mediapipe
+
+
 import cv2 as cv2
 import mediapipe as mp
 import time
